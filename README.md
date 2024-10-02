@@ -1,6 +1,6 @@
 # Bouncing_Ball
 
-Link:  https://gowthammca23.github.io/Bouncing_Ball/
+Link:  https://beskijoseph.github.io/bouncing_ball/
 
 BOUNCING BALL
 
